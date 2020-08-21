@@ -7,4 +7,4 @@ For survival analysis, Cox's models incorporating regularisation and machine lea
 
 For classification analysis, the survival responses were reduced to a binary outcome, high and low risk group. In view of the non-linearity, machine learning techniques, namely Na\"ive Bayes (NB), Support-Vector Machines (SVM) and gbm models were fitted. Their performances were compared to the performance of pT staging, which is one of the standard cancer classifications. The gbm model again achieved the best predictability, in terms of the log-rank test and Kaplan-Meier (KM) plots. NB with only one predictor related to the interaction of macrophage and lymphocytic infiltrates performed surprisingly well in the unseen Edinburgh validation cohort. This suggests the promising potential of investigating their interaction further.
 
-A list of R Script and data files used is described at this [link](../Rlist).
+A list of R Script and data files used is described at this [link](./Rlist.pdf).
